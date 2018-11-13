@@ -1,0 +1,13 @@
+<!--pages/page3/page3.wxml-->
+<view class="page3">
+<view class="page3_title">step 3 in 4:归还护照</view>
+  <text class="page3_info">
+  地点：对外合作部（一层）
+  需准备材料：材料4、盖章后的材料1
+  操作：归还护照
+  本步骤需在材料1上再次盖章”已还护照“
+  </text>
+  <view class="button">
+    <button class='button_next' bindtap='bindViewTap'>已完成，下一步</button>
+  </view>
+</view>

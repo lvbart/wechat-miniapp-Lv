@@ -1,0 +1,14 @@
+<!--pages/page4/page4.wxml-->
+<view class="page4">
+  <view class="page4_title">step 4 in 4:报销其他费用</view>
+  <text class="page4_info">
+  地点：计财
+  需准备材料：材料1（盖了两个章）、2、5、6、7
+  操作：网上填写IE报销单并获批
+  如果有高速路票，需复印
+  
+  </text>
+  <view class="button">
+    <button class='button_next' bindtap='bindViewTap'>大功告成 领钱！</button>
+  </view>
+</view>

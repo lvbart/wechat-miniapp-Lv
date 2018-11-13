@@ -1,0 +1,15 @@
+<view class="page2">
+  <view class="page2_title">step 2 in 4:还备用金</view>
+  <text class="page2_info">
+  地点：员服现金柜台
+  需准备材料：材料1、2、3
+  操作：
+  -如住宿发票金额低于领取外汇住宿费，需退回多余外汇，
+  由现金柜台开出通知单，连同外汇到中国银行存入公司账户。
+  -如住宿费发票等于领取外汇住宿费，无需提供通知单。
+  本步骤需在材料1上盖章”已还备用金“
+  </text>
+  <view class="button">
+    <button class='button_next' bindtap='bindViewTap'>已完成，下一步</button>
+  </view>
+</view>

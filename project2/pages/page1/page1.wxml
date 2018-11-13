@@ -1,0 +1,15 @@
+<view class="section section_gap">
+    <view class="page1_title">step 1 in 4:材料检查单</view>
+    <view class="checkbox">
+      <label><checkbox value="checkbox1"/>任务批件（复印一份）</label>
+      <label><checkbox value="checkbox2"/>呈批件（复印一份）</label>
+      <label><checkbox value="checkbox3"/>酒店发票/外汇</label>
+      <label><checkbox value="checkbox4"/>护照原件</label>
+      <label><checkbox value="checkbox5"/>机票行程单</label>
+      <label><checkbox value="checkbox6"/>签证费发票</label>
+      <label><checkbox value="checkbox7"/>国内交通费</label>
+    </view>
+  <view class="button">
+    <button class='button_next' bindtap='bindViewTap'>已完成，下一步</button>
+  </view>
+</view>

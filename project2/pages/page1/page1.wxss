@@ -1,0 +1,5 @@
+/* pages/page1/page1.wxss */
+.checkbox {
+  flex-direction: column;
+  display: flex
+}
